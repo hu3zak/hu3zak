@@ -44,6 +44,13 @@ Atualmente estou trabalhando em projetos privados e públicos — desde bots par
 
 ---
 
+<h4>📊 GitHub Stats</h4>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hu3zak&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+---
+
 <h4> 📱 Contato </h4>
 
 <div>
