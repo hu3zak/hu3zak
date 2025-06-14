@@ -49,7 +49,7 @@ Atualmente estou trabalhando em projetos privados e públicos — desde bots par
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hu3zak&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
