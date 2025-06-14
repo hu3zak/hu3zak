@@ -9,22 +9,45 @@ Sou um desenvolvedor apaixonado por criar coisas com Java, C# e outras tecnologi
 
 Atualmente estou trabalhando em projetos privados e públicos — desde bots para Discord até sites personalizados para alguém especial. 🚀
 
+## 💻 Languages
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,php,python,java,lua)](https://skillicons.dev)
+
 ---
 
-## 💻 Minhas Tecnologias
+## ⚙️ Frameworks & Libraries
 
-<div style="display: inline_block"><br>
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,django,dotnet,discordjs,nodejs,npm)](https://skillicons.dev)
 
-  <img align="center" alt="Zak-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Zak-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Zak-React" height="38" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Zak-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Zak-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Zak-Python" height="38" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Zak-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+---
 
-  <img align="right" alt="Zak-cat" height="200" width="200" src="https://www.icegif.com/wp-content/uploads/2021/10/icegif-514.gif">
-</div>
+## 🕹️ Game Engines
+
+[![My Skills](https://skillicons.dev/icons?i=unity,unreal,godot,gamemakerstudio,robloxstudio)](https://skillicons.dev)
+
+---
+
+## 🧰 Tools & IDEs
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,androidstudio,git,github,figma,notion,wordpress,vercel,bots,discord)](https://skillicons.dev)
+
+---
+
+## ☁️ Cloud & Infrastructure
+
+[![My Skills](https://skillicons.dev/icons?i=azure,cloudflare,docker,dynamodb)](https://skillicons.dev)
+
+---
+
+## 🖥️ Operating Systems
+
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,kali,mint,arc)](https://skillicons.dev)
+
+---
+
+## 🧱 Others
+
+[![My Skills](https://skillicons.dev/icons?i=blender,arduino)](https://skillicons.dev)
 
 ---
 
