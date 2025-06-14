@@ -7,51 +7,41 @@ Sou um desenvolvedor apaixonado por criar coisas com Java, C# e outras tecnologi
 
 Atualmente estou trabalhando em projetos privados e públicos — desde bots para Discord até sites personalizados para alguém especial. 🚀
 
-# 💻 Languages
+<h4>💻 Languages</h4>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,php,python,java,lua)](https://skillicons.dev)
 
 ---
 
-# ⚙️ Frameworks & Libraries
+<h4>⚙️ Frameworks & Libraries</h4>
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,django,dotnet,discordjs,nodejs,npm)](https://skillicons.dev)
 
 ---
 
-# 🕹️ Game Engines
+<h4>🎮 Game Engines</h4>
 
 [![My Skills](https://skillicons.dev/icons?i=unity,unreal,godot,gamemakerstudio,robloxstudio)](https://skillicons.dev)
 
 ---
 
-# 🧰 Tools & IDEs
+<h4>🛠️ Tools & IDEs</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,androidstudio,git,github,figma,notion,wordpress,vercel,bots,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,androidstudio,github,git,figma,notion,wordpress,vercel,discord,replit)](https://skillicons.dev)
 
 ---
 
-# ☁️ Cloud & Infrastructure
+
+<h4>☁️ Cloud & Infrastructure</h4>
 
 [![My Skills](https://skillicons.dev/icons?i=azure,cloudflare,docker,dynamodb)](https://skillicons.dev)
 
 ---
 
-# 🖥️ Operating Systems
+<h4>🐧 Operating Systems</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,kali,mint,arc)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,mint,archlinux,kali)](https://skillicons.dev)
 
----
-
-# 🧱 Others
-
-[![My Skills](https://skillicons.dev/icons?i=blender,arduino)](https://skillicons.dev)
-
----
-
-## 📊 GitHub Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hu3zak&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
