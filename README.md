@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/hu3zak" target="blank">
 Zkaay</a></h1>
 
----
-
 Sou um desenvolvedor apaixonado por criar coisas com Java, C# e outras tecnologias que me desafiam e divertem.
 
 Atualmente estou trabalhando em projetos privados e públicos — desde bots para Discord até sites personalizados para alguém especial. 🚀
