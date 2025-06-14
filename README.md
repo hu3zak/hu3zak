@@ -40,31 +40,16 @@ Atualmente estou trabalhando em projetos privados e públicos — desde bots par
 
 <h4>🐧 Operating Systems</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,mint,archlinux,kali)](https://skillicons.dev)
-
-
----
-
-## 📂 Destaques
-
-🔐 Projetos privados:
-- `bibia-e-zak-vd`  
-- `Bia-Zak`
-
-🌐 Públicos:
-- [`hu3zak`](https://github.com/hu3zak/hu3zak)
-- [`Discord-PING`](https://github.com/hu3zak/Discord-PING) – envia mensagens para Webhook do Discord com C#
+[![My Skills](https://skillicons.dev/icons?i=linux,mint,archlinux,kali)](https://skillicons.dev)
 
 ---
 
 ## 📱 Contato
 
 <div>
-  <a href="https://discord.com/users/1277026282185687042" target="_blank">
+  <a href="https://discord.com/users/1306189680156344432" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </div>
 
 ---
-
-> 💡 *"Code com sentimento. Deploy com coração."*
