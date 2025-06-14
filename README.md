@@ -40,7 +40,7 @@ Atualmente estou trabalhando em projetos privados e públicos — desde bots par
 
 <h4>🐧 Operating Systems</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,mint,archlinux,kali)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,mint,ubuntu,arc,kali)](https://skillicons.dev)
 
 ---
 
