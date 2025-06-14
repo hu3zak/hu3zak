@@ -1,12 +1,16 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3600&pause=3000&color=F7F7F7&width=435&lines=Welcome+to+Zkaay+GitHub+profile.)](https://git.io/typing-svg)
+
 # 👋 Hi, I'm Zak
-
-Sou um desenvolvedor apaixonado por criar coisas com JavaScript, TypeScript, C# e outras tecnologias que me desafiam e divertem.
-
-Atualmente estou trabalhando em projetos privados e públicos — desde bots para Discord até sites personalizados para alguém especial 💖.
 
 ---
 
-## 🚀 Minhas Tecnologias
+Sou um desenvolvedor apaixonado por criar coisas com Java, C# e outras tecnologias que me desafiam e divertem.
+
+Atualmente estou trabalhando em projetos privados e públicos — desde bots para Discord até sites personalizados para alguém especial. 🚀
+
+---
+
+## 💻 Minhas Tecnologias
 
 <div style="display: inline_block"><br>
 
