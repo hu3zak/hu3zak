@@ -1,30 +1,54 @@
-## Hi, I'm Zak
+# 👋 Hi, I'm Zak
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hu3zak&show_icons=true&theme=dark)
+Sou um desenvolvedor apaixonado por criar coisas com JavaScript, TypeScript, C# e outras tecnologias que me desafiam e divertem.
 
-##
-<div style="display: inline-block"><br>
+Atualmente estou trabalhando em projetos privados e públicos — desde bots para Discord até sites personalizados para alguém especial 💖.
 
-<img align="center" alt="Zak-3s" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+---
 
-<img align="center" alt="Zak-Ts" height="30" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
+## 🚀 Minhas Tecnologias
 
-<img align="center" alt="Zak-React" height="38" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
+<div style="display: inline_block"><br>
 
-<img align="center" alt="Zak-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
+  <img align="center" alt="Zak-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Zak-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Zak-React" height="38" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Zak-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Zak-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Zak-Python" height="38" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Zak-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
-<img align="center" alt="Zak-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+  <img align="right" alt="Zak-cat" height="200" width="200" src="https://www.icegif.com/wp-content/uploads/2021/10/icegif-514.gif">
+</div>
 
-<img align="center" alt="Zak-Python" height="38" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+---
 
-<img align="center" alt="Zak-Csharp" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
+## 📊 GitHub Stats
 
-<img align="right" height="200" width="200" alt="Zak-Cat" src="https://www.icegif.com/wp-content/uploads/2021/10/icegif-514.gif"> </div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hu3zak&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-##
+---
+
+## 📂 Destaques
+
+🔐 Projetos privados:
+- `bibia-e-zak-vd`  
+- `Bia-Zak`
+
+🌐 Públicos:
+- [`hu3zak`](https://github.com/hu3zak/hu3zak)
+- [`Discord-PING`](https://github.com/hu3zak/Discord-PING) – envia mensagens para Webhook do Discord com C#
+
+---
+
+## 📱 Contato
 
 <div>
-<a href="https://www.youtube.com/@zakyyil" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> <a href="https://discord.com/users/1277026282185687042" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> </a>
-
-
+  <a href="https://discord.com/users/1277026282185687042" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
 </div>
+
+---
+
+> 💡 *"Code com sentimento. Deploy com coração."*
