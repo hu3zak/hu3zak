@@ -9,44 +9,43 @@ Atualmente estou trabalhando em projetos privados e públicos — desde bots par
 
 <h4>💻 Languages</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,php,python,java,lua)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,php,python,java,lua)
 
 ---
 
 <h4>⚙️ Frameworks & Libraries</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,django,dotnet,discordjs,nodejs,npm)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,django,dotnet,discordjs,nodejs,npm)
 
 ---
 
 <h4>🎮 Game Engines</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=unity,unreal,godot,gamemakerstudio,robloxstudio)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=unity,unreal,godot,gamemakerstudio,robloxstudio)
 
 ---
 
 <h4>🛠️ Tools & IDEs</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,androidstudio,github,git,figma,notion,wordpress,vercel,discord,replit)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,androidstudio,github,git,figma,notion,wordpress,vercel,discord,replit)
 
 ---
 
-
 <h4>☁️ Cloud & Infrastructure</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=azure,cloudflare,docker,dynamodb)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=azure,cloudflare,docker,dynamodb)
 
 ---
 
 <h4>🐧 Operating Systems</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,mint,ubuntu,arch,kali)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=linux,mint,ubuntu,arch,kali)
 
 ---
 
 <h4>📊 GitHub Stats</h4>
 
-![hu3zak GitHub stats](https://github-readme-stats.vercel.app/api?username=hu3zak&show_icons=true&bg_color=00000000)
+![hu3zak GitHub stats](https://github-readme-stats.vercel.app/api?username=hu3zak&show_icons=true&bg_color=00000000&text_color=ffffff&icon_color=ffffff)
 
 
 ---
