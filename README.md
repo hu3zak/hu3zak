@@ -46,9 +46,7 @@ Atualmente estou trabalhando em projetos privados e públicos — desde bots par
 
 <h4>📊 GitHub Stats</h4>
 
-<h4>📊 GitHub Stats</h4>
-
-![hu3zak GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+![hu3zak GitHub stats](https://github-readme-stats.vercel.app/api?username=hu3zak&show_icons=true&bg_color=00000000)
 
 
 ---
