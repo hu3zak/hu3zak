@@ -50,7 +50,7 @@ Atualmente estou trabalhando em projetos privados e públicos — desde bots par
 
 ---
 
-<h4> 📱 Contato </h4>
+<h4> 📱 Contact </h4>
 
 <div>
   <a href="https://discord.com/users/1306189680156344432" target="_blank" rel="noopener noreferrer">
