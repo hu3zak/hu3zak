@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3600&pause=3000&color=F7F7F7&width=435&lines=Welcome+to+Zkaay+GitHub+profile.)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3600&pause=3000&color=F7F7F7&width=435&lines=Welcome+to+Zkaay+GitHub+profile.)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/hu3zak" target="blank">
 Zkaay</a></h1>
@@ -43,17 +43,10 @@ Atualmente estou trabalhando em projetos privados e públicos — desde bots par
 
 ---
 
-<h4>📊 GitHub Stats</h4>
-
-![hu3zak GitHub stats](https://github-readme-stats.vercel.app/api?username=hu3zak&show_icons=true&bg_color=00000000&text_color=ffffff&icon_color=ffffff&title_color=c0c0c0)
-
-
----
-
 <h4> 📱 Contact </h4>
 
 <div>
-  <a href="https://discord.com/users/1306189680156344432" target="_blank" rel="noopener noreferrer">
+  <a href="https://discord.com/users/1235793733165908040" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </div>
